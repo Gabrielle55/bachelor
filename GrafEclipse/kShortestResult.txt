@@ -1,0 +1,20 @@
+Cost: 18
+Path: 8 1 7 
+Cost: 21
+Path: 8 4 7 
+Cost: 23
+Path: 8 1 5 
+Cost: 24
+Path: 8 3 1 12 
+Cost: 26
+Path: 8 4 5 
+Cost: 26
+Path: 14 8 7 
+Cost: 27
+Path: 8 3 4 12 
+Cost: 30
+Path: 14 0 7 
+Cost: 31
+Path: 14 8 5 
+Cost: 32
+Path: 8 3 14 12 

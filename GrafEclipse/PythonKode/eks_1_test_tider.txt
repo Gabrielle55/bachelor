@@ -1,0 +1,3 @@
+Knuder - 10000
+Kanter - 60000
+Average time: 554049760

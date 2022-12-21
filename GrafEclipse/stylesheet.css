@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+node {
+        fill-color: red;
+    }
+edge {
+		fill-color: black;
+}
